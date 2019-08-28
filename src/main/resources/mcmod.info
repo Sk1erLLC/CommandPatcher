@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "command_patcher",
+    "name": "Command Patcher",
+    "description": "Fixes a Forge bug in which commands weren't handled properly",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Sk1erLLC"
+    ],
+    "credits": "prplz",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
