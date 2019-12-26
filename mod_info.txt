@@ -1,0 +1,3 @@
+<br>
+<p>Command Patcher allows you to use caps when using commands.</p>
+<br>
